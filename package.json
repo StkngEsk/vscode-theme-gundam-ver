@@ -1,0 +1,67 @@
+{
+  "name": "stkngesk-gundam-ver-theme",
+  "displayName": "StkngEsk Gundam Ver Theme",
+  "description": "StkngEsk Theme Gundam Version",
+  "version": "0.0.2",
+  "publisher": "StkngEsk",
+  "bugs": {
+    "url": "https://github.com/StkngEsk/vscode-theme-gundam-ver/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StkngEsk/vscode-theme-gundam-ver"
+  },
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "galleryBanner": {
+    "color": "#242527",
+    "theme": "dark"
+  },
+  "icon": "images/icon/logo.png",
+  "keywords": [
+    "StkngEsk Theme",
+    "Dark Theme",
+    "JeanStkng Theme",
+    "Developing the future",
+    "JeanDevsito Theme",
+    "ChristhianEsk Theme",
+    "VSCode Dark Theme",
+    "dark",
+    "Theme",
+    "Visual Studio Code Theme",
+    "vscode dark",
+    "vscode dark theme",
+    "Ecuador",
+    "code theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "badges": [
+    {
+      "url": "https://img.shields.io/static/v1?label=Organization&message=StkngEsk&color=2EF8C9&logo=github",
+      "href": "https://github.com/StkngEsk",
+      "description": "Developing the Future"
+    },
+    {
+      "url": "https://img.shields.io/static/v1?label=&message=JeanStkng&color=121212&logo=github",
+      "href": "https://github.com/jeanstkng",
+      "description": "Developing the Future"
+    },
+    {
+      "url": "https://img.shields.io/static/v1?label=&message=ChristianEsk&color=121212&logo=github",
+      "href": "https://github.com/Christianesk",
+      "description": "Developing the Future"
+    }
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "StkngEsk Gundam",
+        "uiTheme": "vs-dark",
+        "path": "./themes/StkngEsk Gundam-color-theme.json"
+      }
+    ]
+  }
+}
