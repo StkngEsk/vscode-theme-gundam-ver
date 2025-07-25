@@ -2,7 +2,7 @@
 
 [![https://stkngesk.tech](https://img.shields.io/static/v1?label=&message=VSCode%20Marketplace%20Download&color=121212&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=StkngEsk.stkngesk-gundam-ver-theme)
 
-[![StkngEsk - Dark Gundam Ver. Theme by StkngEsk](https://firebasestorage.googleapis.com/v0/b/stkngesk-website.appspot.com/o/stkngesk-dark-theme.gif?alt=media&token=91f3c573-9029-4dee-84fd-c65957170a67)](https://stkngesk.tech)
+[![StkngEsk - Dark Gundam Ver. Theme by StkngEsk](https://raw.githubusercontent.com/StkngEsk/vscode-theme-gundam-ver/refs/heads/main/images/stkng-esk-gundam-ver-color-theme.gif)](https://stkngesk.tech)
 
 # StkngEsk - VSCode Gundam Ver. Theme
 
